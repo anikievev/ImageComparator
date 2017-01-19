@@ -1,0 +1,2 @@
+# ImageComparator
+Image comparsion utility
